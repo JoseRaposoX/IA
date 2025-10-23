@@ -44,6 +44,7 @@ Através de técnicas de *Machine Learning* supervisionado, o modelo tenta preve
 
 ## 🧩 Estrutura do Projeto
 📂 crypto-ia-project/
+
 │
 
 ├── 📘 Trabalho_IA_Especulacao_Criptomoedas.docx # Relatório completo do projeto
@@ -52,4 +53,4 @@ Através de técnicas de *Machine Learning* supervisionado, o modelo tenta preve
 
 ├── 📈 resultados.png # Visualização dos resultados (opcional)
 
-  |── README.md # Este arquivo
+   |── README.md # Este arquivo
